@@ -51,3 +51,6 @@ c:\users\esousa\documents\visual studio 2015\Projects\ProjetoJenkins\ProjetoJenk
 c:\users\esousa\documents\visual studio 2015\Projects\ProjetoJenkins\ProjetoJenkins\obj\Debug\ProjetoJenkins.csprojResolveAssemblyReference.cache
 c:\users\esousa\documents\visual studio 2015\Projects\ProjetoJenkins\ProjetoJenkins\obj\Debug\ProjetoJenkins.dll
 c:\users\esousa\documents\visual studio 2015\Projects\ProjetoJenkins\ProjetoJenkins\obj\Debug\ProjetoJenkins.pdb
+C:\Users\esousa\Documents\JOAOKINS\ProjetoJenkins\ProjetoJenkins\obj\Debug\ProjetoJenkins.csprojResolveAssemblyReference.cache
+C:\Users\esousa\Documents\JOAOKINS\ProjetoJenkins\ProjetoJenkins\obj\Debug\ProjetoJenkins.dll
+C:\Users\esousa\Documents\JOAOKINS\ProjetoJenkins\ProjetoJenkins\obj\Debug\ProjetoJenkins.pdb
